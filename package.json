@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "shortstop": "^1.0.3",
-    "tap": "^8.0.1"
+    "tap": "^9.0.3"
   }
 }
